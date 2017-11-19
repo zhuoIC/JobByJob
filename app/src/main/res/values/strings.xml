@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JobByJob</string>
+    <!-- LoginActivity -->
+    <string name="txvUser">Correo electrónico / Usuario:</string>
+    <string name="txvPassword">Introduzca la cotraseña:</string>
+    <string name="btnSignUp">Registrarse</string>
+    <string name="btnSignIn">Acceder</string>
+    <string name="btnGoogleSignIn">Logueate con Google</string>
+    <string name="btnFacebookSignIn">Logueate con Facebook</string>
+    <string name="btnTwitterSignIn">Logueate con Twitter</string>
+
+    <!-- MenuActivity -->
+    <string name="txvCategory">Categorías</string>
+
+    <!-- ACCIONES DE LA APPBAR-TOOLBAR-FLOATING BUTTON-->
+
+    <string name="action_save">Salvar</string>
+    <string name="action_account_setting">Ajustes de Cuenta</string>
+    <string name="action_general_setting">Ajustes Generales</string>
+    <string name="edtName">Escriba el nombre</string>
+    <string name="edtSortName">Escriba el nombre corto</string>
+    <string name="edtDescription">Escriba una descripción</string>
+</resources>

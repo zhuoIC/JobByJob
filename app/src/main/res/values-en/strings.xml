@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobByJob</string>
+    <string name="txvSignIn">Sign In</string>
+    <string name="txvUser">Email / User:</string>
+    <string name="txvPassword">Enter passwrod:</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnGoogleSignIn">Login with Google</string>
+    <string name="btnFacebookSignIn">Login with Facebook</string>
+    <string name="btnTwitterSignIn">Login with Twitter</string>
+</resources>
